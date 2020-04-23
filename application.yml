@@ -1,2 +1,3 @@
-service:
-  port: 80
+spring:
+  application:
+    name: hahah
